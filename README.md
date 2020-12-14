@@ -10,6 +10,4 @@ Here are my relevant links:
 - [LinkedIn](https://www.linkedin.com/in/ferran-j-44b23362/)
 - Or you can download my [CV](https://gitlab.com/mrswats/ferranjovellcv/-/jobs/artifacts/main/raw/FerranJovellMegiasCV.pdf?job=pdf).
 
-### Metric:
-
 ![GitHub metrics](https://metrics.lecoq.io/mrswats?base.header=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year)
