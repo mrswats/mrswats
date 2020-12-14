@@ -12,4 +12,4 @@ Here are my relevant links:
 
 ### Metric:
 
-![GitHub metrics](https://metrics.lecoq.io/mrswats)
+![GitHub metrics](https://metrics.lecoq.io/mrswats?base.header=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year)
